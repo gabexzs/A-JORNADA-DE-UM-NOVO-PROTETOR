@@ -20,3 +20,8 @@ body{
     width: 93%; 
     
 }
+.passo.ativo{
+    display: block; 
+}
+
+
