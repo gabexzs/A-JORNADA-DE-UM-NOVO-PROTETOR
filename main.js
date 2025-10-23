@@ -1,0 +1,1 @@
+const avanca = domument.querySelectorAll ('btn-proximo')
